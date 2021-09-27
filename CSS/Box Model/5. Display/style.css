@@ -1,0 +1,17 @@
+/* h1{
+    background-color:yellowgreen;
+    border:1px solid;
+    display:inline;
+} */
+
+/* span{
+    background-color:paleturquoise;
+    border:1px solid;
+    display: block;
+} */
+
+span{
+    background-color: palevioletred;
+    border:1px solid black;
+    width:500px;   /* inline hence ignored */
+}
